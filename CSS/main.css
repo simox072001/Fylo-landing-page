@@ -1,0 +1,150 @@
+.main{
+  position: relative;
+}
+
+.logoimg{
+  margin-top: 4rem;
+  margin-left: 3rem;
+}
+
+.logo{
+  padding-top: 50px;
+  padding-left: 70px;
+  margin-bottom: 60px;
+}
+
+h4{
+  float: right;
+  padding-right: 2rem;
+}
+
+.intro{
+  margin-top: 11rem;
+  position: absolute;
+  width:45%;
+  margin-left: 3rem;
+}
+
+.illustration{
+  float: right;
+  width: 50%;
+  height: 50%;
+  margin-right: 2rem;
+}
+
+.curve{
+  width:100%;
+  margin-top: 12rem;
+}
+
+.illustration2{
+  width: 50%;
+  height: 70%;
+  background-color: #f8f8fe;
+  float:right;
+  padding-bottom: 124px;
+}
+.part2{
+  position: absolute;
+  text-align: left;
+  padding-top: 3rem;
+  width: 50%;
+  background-color: #f8f8fe;
+  padding-left: 3rem;
+  padding-bottom: 30px;
+}
+.footerContainer{
+  width: 100%;
+  position: absolute;
+  margin-top: 650px;
+}
+.firstfootertxt{
+    background-color: #575989;
+    float: left;
+    text-align: left;
+    color: white;
+    padding-left: 70px;
+    width: 50%;
+
+}
+.firstfootermail{
+  background-color: #575989;
+  width: 50%;
+  float: right;
+}
+.secondfooter{
+  margin-top: 880px;
+  background-color: #07043b;
+  color: white;
+  padding-top: 5rem;
+  padding-left: 3rem;
+  padding-bottom: 17rem;
+}
+
+.link{
+  color: lightgreen;
+}
+.card{
+  height: 250px;
+  width: 540px;
+}
+.avatar{
+  position: absolute;
+  margin-left: 6px;
+}
+.kyle{
+  margin-left:6rem;
+}
+
+.phone{
+  position: absolute;
+  margin-top: 7.5rem;
+}
+.phonetxt{
+  position: absolute;
+  margin-left: 32px;
+  margin-top: 7.5rem;
+}
+.mail{
+  position: absolute;
+  margin-top: 5rem;
+}
+.mailtext{
+  position: absolute;
+  margin-left: 32px;
+  margin-top: 5rem;
+}
+.p1{
+  text-align: left;
+  margin-top: 5rem;
+  margin-left: 30rem;
+  position: absolute;
+  padding-bottom: 25px;
+}
+.p2{
+  text-align: right;
+  position: absolute;
+  margin-left: 50rem;
+  margin-top: 5rem;
+  padding-bottom: 25px;
+}
+.nglogo{
+  position: absolute;
+  margin-bottom: 15px;
+}
+.socialdiv{
+  position: absolute;
+}
+.fb{
+  margin-top: 75px;
+  height: 50px;
+  margin-left: 1100px;
+}
+.tw{
+  height: 50px;
+  margin-top: 75px;
+}
+.ig{
+  height: 50px;
+  margin-top: 75px;
+}
